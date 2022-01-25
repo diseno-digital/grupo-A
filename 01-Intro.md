@@ -51,17 +51,7 @@ Antes de cada sesión es importante:
 
 - `Entrar al repositorio y leer el documento del tema en curso para tener listo todos los requisitos de la sesión.`
 - `Tener lista su estación de trabajo con las herramientas, ajustes y esenciales (descargables, etc.) que van a utilizar durante la sesión.`
-- `Estar dentro de la tolerancia para ingresar a la sesión (10 minutos) y evitar quedarse fuera. Informar cualquier caso extraordinario y/o eventualidad antes de tiempo para realizar excepción.``
-
-
-
-Al final de cada sesión es importante:
-
-- `Guardar los avances de la sesión para poder visualizar el avance y tener un punto de referencia de su progreso y ayudarl@s en caso de que se atoren con algún tema.`
-- `Completar el ejercicio, quiz o dinámica de la sesión.`
-- `Anotar cualquier duda de su proyecto y crear un issue asignado a mi para  ayudarl@s y posiblemente (dependiendo de la complejidad y utilidad) crear un ejemplo para el resto de la clase.`
-
-
+- `Estar dentro de la tolerancia para ingresar a la sesión (10 minutos) y evitar quedarse fuera. Informar cualquier caso extraordinario y/o eventualidad antes de tiempo para realizar excepción.`
 
 Al final de cada sesión es importante:
 
