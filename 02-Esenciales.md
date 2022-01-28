@@ -38,6 +38,10 @@ Ejercicio:
 
 * Vamos a definir el objetivo de nuestro proyecto, tomando en cuenta las propuestas y los recursos con los que contamos.
 
+Objetivo:
+
+* Democratizar contenido diverso (intimo) para su uso, consulta y transformación.
+
 ## 3. Diferenciadores
 
 Una vez que tenemos claro nuestro objetivo, vamos a trabajar en los elementos que nos van a ayudar a diferenciarnos de soluciones existentes.
