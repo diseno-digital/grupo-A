@@ -60,4 +60,4 @@ Una vez que hayamos terminado, vamos a subir nuestro progreso a Github.
 
 Enlaces útiles de referencia:
 
-<a href="https://superdense.com/michcodes" rel="Bookmarks">![Bookmarks](https://res.cloudinary.com/pmichventura/image/upload/v1643343373/CENTRO/bookmarks.png)</a>
+<a href="https://superdense.com/michcodes" target="_blank" rel="Bookmarks">![Bookmarks](https://res.cloudinary.com/pmichventura/image/upload/v1643343373/CENTRO/bookmarks.png)</a>
