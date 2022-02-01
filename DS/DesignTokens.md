@@ -2,11 +2,10 @@
 
 - Propuesta de tipografía
 
-https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Space+Grotesk:wght@300;400;500;600;700&display=swap
-
+https://rsms.me/inter/ - Inter
 
 - Propuesta de colores
 
-#9B1254 - primario
-
+#ff9a00 - primario
+#a7caff - secundario
 
