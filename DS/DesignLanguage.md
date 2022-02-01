@@ -6,7 +6,7 @@ Sube/baja:
 notas fotos sueños textos cuentos chismes memes pensamientos opiniones preguntas respuestas motivos propósitos cartas stickers 
 
 Intro:
-¡Bienvenido a Subibaja! Una plataforma donde democratizamos el contenido de nuestra vida cotidiana. Buscando un espacio para depositar nuestras inquietudes y compartir nuestros gozos, encontramos una oportunidad para co-crear. Te invitamos a ser parte de este archivo donde podrás subir, bajar y utilizar el contenido libremente. Sube, baja, transforma y comparte, nos encantará conocerles.
+¡Bienvenidx a Subibaja! Una plataforma donde democratizamos el contenido de nuestra vida cotidiana. Buscando un espacio para depositar nuestras inquietudes y compartir nuestros gozos, encontramos una oportunidad para co-crear. Te invitamos a ser parte de este archivo donde podrás subir, bajar y utilizar el contenido libremente. Sube, baja, transforma y comparte, nos encantará conocerles.
 
 ¿Cómo funciona?
 Subibaja es un archivo colectivo y de dominio público donde te invitamos a compartir contenido de tu vida cotidiana. 
@@ -26,5 +26,5 @@ Comparte
 
 
 Reglas del Juego
-¡Este juego depende de todos! Solo funciona si jugamos con respeto. Abrimos un espacio de confianza, inclusión y diversidad ideológica. Tanto subas como bajes procura hacer un uso responsable del contenido y el espacio. Juega limpio :)
+¡Este juego depende de todxs! Solo funciona si jugamos con respeto. Abrimos un espacio de confianza, inclusión y diversidad ideológica. Tanto subas como bajes procura hacer un uso responsable del contenido y el espacio. Juega limpio :)
 
