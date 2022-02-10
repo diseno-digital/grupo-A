@@ -94,7 +94,7 @@ Pasos:
   TODO:
   1. Crear un archivo style.css
   2. Crear una etiqueta link:css dentro dentro de la información meta del documento.
-  3. Dar clic en https://tinyurl.com/mrcedz3v para copiar el gist y pegarlo en el archivo style.css.
+  3. Dar clic en tinyurl.com/mrx9rcdz para copiar los reset del gist y pegarlo en el archivo style.css.
   4. Crear el markup apartir de la imagen/screenshot (ayudarnos con la tabla periódica ubicada al final del documento en enlaces útiles).
   5. Analizar las propiedades de formato que vemos en nuestra imagen y utilizar nuestro documento style.css para visualizar nuestros cambios (Tip: Utilizar Visbug para analizar cualquier página web y ver que propiedades podemos aplicarle a nuestro diseño).
 -->
