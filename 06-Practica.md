@@ -128,5 +128,6 @@ Ejercicio:
 * [Browser Default Styles](https://browserdefaultstyles.com)
 * [Vscode web](https://vscode.dev)
 * [Github Pages](https://pages.github.com)
+* [Imágenes del proyecto](https://gist.github.com/venturamichel/8f5ca485cd72e7ee84b2ad9b912852d6)
 * [Cloudinary](https://cloudinary.com)
 * [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)
