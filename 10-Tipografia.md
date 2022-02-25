@@ -35,7 +35,11 @@ Ejercicio:
 **Enlaces útiles:**
 
 * [Presentación tipografía](https://slides.com/michventura/tipografia)
+* [Toolbox VSCode](https://marketplace.visualstudio.com/items?itemName=YehudaKremer.toolbox)
+* [CSS Navigation VSCode](https://marketplace.visualstudio.com/items?itemName=pucelle.vscode-css-navigation)
+* [Presentación tipografía](https://slides.com/michventura/tipografia)
 * [Fundamentos de texto y fuentes tipográficas](https://developer.mozilla.org/es/docs/Learn/CSS/Styling_text/Fundamentals)
 * [Fontshare](https://www.fontshare.com/)
 * [Font Squirrel](https://www.fontsquirrel.com/)
 * [Google Fonts](https://fonts.google.com/)
+
