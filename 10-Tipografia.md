@@ -15,7 +15,7 @@ sesion: 10
 
 Ejercicio:
 
-1. Vamos a crear de manera individual 3 componentes donde cada uno tenga una tipografía distinta.
+1. Vamos a crear de manera individual 1 componente donde cada diseño tenga una tipografía distinta.
 2. Van a utilizar un documento/folder con 2 archivos *index.html* & *[style.css](https://bit.ly/3IrAMof)*
 3. Al terminar, vamos a guardar nuestros cambios con el commit `ejercicio-04`.
 
