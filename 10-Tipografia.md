@@ -11,6 +11,9 @@ sesion: 10
 ## Tipografía
 
 [Presentación](https://slides.com/michventura/tipografia)
+
+<br>
+
 [Ejemplo](https://codepen.io/michcodes/details/OJOwqja)
 
 Ejercicio:
