@@ -10,11 +10,8 @@ sesion: 10
 
 ## Tipografía
 
-[Presentación](https://slides.com/michventura/tipografia)
-
-<br>
-
-[Ejemplo](https://codepen.io/michcodes/details/OJOwqja)
+* [Presentación](https://slides.com/michventura/tipografia)
+* [Ejemplo](https://codepen.io/michcodes/details/OJOwqja)
 
 Ejercicio:
 
