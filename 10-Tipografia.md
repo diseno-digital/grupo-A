@@ -11,12 +11,13 @@ sesion: 10
 ## Tipografía
 
 * [Presentación](https://slides.com/michventura/tipografia)
-* [Ejemplo](https://codepen.io/michcodes/details/OJOwqja)
+* [Ejemplo](https://codepen.io/michcodes/pen/OJOwqja)
 
 Ejercicio:
 
 1. Vamos a crear de manera individual 3 componentes donde cada uno tenga una tipografía distinta.
-2. Al terminar, vamos a guardar nuestros cambios con el commit `ejercicio-04`.
+2. Van a utilizar un documento/folder con 2 archivos *index.html* & *[style.css](https://bit.ly/3IrAMof)*
+3. Al terminar, vamos a guardar nuestros cambios con el commit `ejercicio-04`.
 
 **Importante:**
 
