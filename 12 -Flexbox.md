@@ -12,7 +12,7 @@ sesion: 12
 
 * [Presentación](https://slides.com/michcodes/flexbox)
 
-Ejemplo: [Enlace VSCode Liveshare](https://vscode.dev)
+Ejemplo: [Enlace VSCode Liveshare](https://prod.liveshare.vsengsaas.visualstudio.com/join?6C77284C9E2323B18120FE803311FC074E34)
 
 Ejercicio:
 
