@@ -11,6 +11,7 @@ sesion: 18
 <br>
 
 * [Presentación & ejemplos](https://learned-good-bye.surge.sh/)
+* [Archivos de ejercicio](https://gist.github.com/venturamichel/0f15671b8755bb23e4216111c37c42a0)
 
 <br>
 
@@ -22,7 +23,6 @@ sesion: 18
 2. Utilizar Devtools para visualizar nuestro trabajo.
 3. Publicar nuestros cambios.
 
-* [archivos](https://gist.github.com/venturamichel/0f15671b8755bb23e4216111c37c42a0)
 
 <br>
 
